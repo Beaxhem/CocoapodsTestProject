@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CocoapodsTestProject_Tests' do
+  pod 'CocoapodsTestProject', :path => '../'
+  
+  
+end
